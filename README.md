@@ -46,3 +46,7 @@
 - 直接将文件传到手机上就可以用了！！
 
 ![配置](https://github.com/Jerryrongjie/vr_setting/blob/master/7.jpg)
+
+## 测试视频
+
+https://github.com/Jerryrongjie/vr_setting/blob/master/%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91.mp4
